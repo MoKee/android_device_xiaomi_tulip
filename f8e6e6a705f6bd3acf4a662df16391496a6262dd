@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1548663315 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_device_xiaomi_tulip\nnonce 1548663315-A475E02A85FD403AE8D61E2B683BD07A55C1FC21\n\n0000000000000000000000000000000000000000 f8e6e6a705f6bd3acf4a662df16391496a6262dd refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcTroTAAoJEPIi9OYuzSUxnokIAJbjW3fmQvIckpA4sWS8nwNm\nrgX9DYGC0Jyi371PwDCWM74nkXXdGDZz8sOzzlDIXbUdVK2CIyVoWwQBvE8S4ccz\nsDesvnxScIDr/VF4IiCSiH6j8g9oDZjAJuqsG7Nayb8tGWnPDiH9wHKGsMZQvLaN\nVfY2xgfSafJ6buv5Fztt0nrycC7DqlwRDZXmG27maOo2NVFwd90hW0NFg7N2JlRM\n7O6smRlVonL8iClL7xNxLrYCOffWXErk4Ij4IRNfp9lXHGfh9Wkj9kxv6rbEFDbn\nP/nq7tvjsh5mZRrOnUs+irIijZ+TmxGQbq8CMRiq31CNjZWgs9+NWaok0fyQr3w\u003d\n\u003dfJYM\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
