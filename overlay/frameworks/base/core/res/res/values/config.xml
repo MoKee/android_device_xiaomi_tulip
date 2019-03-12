@@ -208,31 +208,31 @@
          The brightness values must be between 0 and 255 and be non-decreasing.
          This must be overridden in platform specific overlays -->
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>2</item>
-        <item>2</item>
-        <item>3</item>
-        <item>3</item>
-        <item>8</item>
-        <item>10</item>
-        <item>12</item>
-        <item>15</item>
-        <item>17</item>
-        <item>24</item>
-        <item>30</item>
-        <item>30</item>
-        <item>44</item>
-        <item>45</item>
+        <item>32</item>
+        <item>32</item>
         <item>48</item>
-        <item>55</item>
-        <item>64</item>
-        <item>66</item>
-        <item>69</item>
-        <item>84</item>
-        <item>93</item>
-        <item>105</item>
-        <item>200</item>
+        <item>48</item>
+        <item>128</item>
+        <item>160</item>
+        <item>192</item>
         <item>240</item>
-        <item>255</item>
+        <item>272</item>
+        <item>384</item>
+        <item>480</item>
+        <item>480</item>
+        <item>704</item>
+        <item>720</item>
+        <item>800</item>
+        <item>960</item>
+        <item>1104</item>
+        <item>1136</item>
+        <item>1168</item>
+        <item>1344</item>
+        <item>1488</item>
+        <item>1680</item>
+        <item>3200</item>
+        <item>3840</item>
+        <item>4095</item>
     </integer-array>
 
     <!-- MMS user agent string -->
