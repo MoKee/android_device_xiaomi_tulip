@@ -91,16 +91,16 @@ vendor/lib64/soundfx/libasphere.so|8b34e5df3f9070cdfead48f064a3135a719503c7
 vendor/lib64/soundfx/libqcbassboost.so|16f6b74db3b24ee82674c40498bcc1b319770b50
 vendor/lib64/soundfx/libqcvirt.so|6c21052f294765efb9188454a78791911da919dd
 
-# Audio ACDB - from tulip oreo
-vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb|807a15a0a22429e77a34cf65bf9fe95fa3d36c46
-vendor/etc/acdbdata/MTP/MTP_General_cal.acdb|fd232a8c38eb3fc224294cf6fd136390143feab7
-vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb|4eafff69838f3543e69829ac11d16e628f8e60d5
-vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb|69c3e3f497372107c074957dada274fd4b2d338d
-vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb|24c6c50b156133cab33adaee91a8e5a794f5a5aa
-vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb|9f9a78a834e0418a755b79875008a828c1726e0a
-vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb|a2cd9dd532a983eca6113aff7e161ddf40c040fd
-vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp|6d039b07c6bd71cd190dfe6a870194f696401135
-vendor/etc/acdbdata/adsp_avs_config.acdb|d9507f31b8970320233128fed24c39742ee53c67
+# Audio ACDB
+vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
+vendor/etc/acdbdata/MTP/MTP_General_cal.acdb
+vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb
+vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb
+vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb
+vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb
+vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb
+vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp
+vendor/etc/acdbdata/adsp_avs_config.acdb
 
 # Bluetooth - from Mi A2 jasmine_sprout 9 PKQ1.180904.001 V10.0.1.0.PDIMIFJ release-keys
 vendor/bin/btnvtool|957c5c3b8379b02085ee04ba39e67536361e368d
@@ -1076,18 +1076,18 @@ vendor/lib/libchromatix_tulip_s5k5e8_sunny_global_ii_video_full.so|97d67a9c9bbf8
 vendor/lib/libchromatix_tulip_s5k5e8_sunny_global_ii_zsl_preview.so|84f3035b137fe291e2f5ec4190f09c561aba5c81
 vendor/lib/libchromatix_tulip_s5k5e8_sunny_global_ii_zsl_video.so|fc043b291f538196315f0a6ee211f55a5b259fcd
 
-# Camera firmware - from tulip oreo
-vendor/firmware/cpp_firmware_v1_1_1.fw|04b8eb253d630eaeadab296e1607dc6a29d93d3c
-vendor/firmware/cpp_firmware_v1_1_6.fw|6b2c9fe0a43a9ce86a921e18faffe4d0a35746ee
-vendor/firmware/cpp_firmware_v1_2_0.fw|5ff0d66bcdbb29f4e924d011ae825583e48b3962
-vendor/firmware/cpp_firmware_v1_4_0.fw|11eba982212797920102912142940a9e08931c52
-vendor/firmware/cpp_firmware_v1_5_0.fw|ac19cd179b7b118bb3ea01a35fdfc78dc58164a1
-vendor/firmware/cpp_firmware_v1_5_1.fw|f3f622ab29a560b170d0f2c6ddec14b933f2d476
-vendor/firmware/cpp_firmware_v1_5_2.fw|58dd7f7c09dbb62bc6f334a8885064b292610675
-vendor/firmware/cpp_firmware_v1_6_0.fw|dcd3d1f904c7ee3d731f8f28b5f78f2503916ada
-vendor/firmware/cpp_firmware_v1_8_0.fw|26e2badbb4e3049243f0a176722f26879e7b87e8
-vendor/firmware/cpp_firmware_v1_10_0.fw|a3c0fc706eb3f23b99852fe8c52c26f63999f70c
-vendor/firmware/cpp_firmware_v1_12_0.fw|c7939d46f9875054c5b30c3280862e7d9df3dcf9
+# Camera firmware
+vendor/firmware/cpp_firmware_v1_1_1.fw
+vendor/firmware/cpp_firmware_v1_1_6.fw
+vendor/firmware/cpp_firmware_v1_2_0.fw
+vendor/firmware/cpp_firmware_v1_4_0.fw
+vendor/firmware/cpp_firmware_v1_5_0.fw
+vendor/firmware/cpp_firmware_v1_5_1.fw
+vendor/firmware/cpp_firmware_v1_5_2.fw
+vendor/firmware/cpp_firmware_v1_6_0.fw
+vendor/firmware/cpp_firmware_v1_8_0.fw
+vendor/firmware/cpp_firmware_v1_10_0.fw
+vendor/firmware/cpp_firmware_v1_12_0.fw
 
 # Camera OIS - from tulip oreo
 vendor/lib/libois_bu63165.so|77752254701047e7cc46121fd726bd0d9856799d
@@ -1161,14 +1161,14 @@ vendor/lib64/vendor.qti.hardware.data.qmi@1.0.so|bb2c6f9dabeacf88ecd8a4210716664
 vendor/lib64/vendor.qti.data.factory@1.0.so|cf0f34cc9d740a7cc53d152b5b3bc5128f3e0b26
 vendor/lib64/vendor.qti.latency@2.0.so|15e50ce40e210993343406947dd2c959920f40c8
 
-# Consumerir - from tulip oreo
-vendor/lib/hw/consumerir.default.so|eba9f92e52e9c65b841277d0db9ed925952e3acb
-vendor/lib64/hw/consumerir.default.so|01e5f4bf674cbe2db01da3a44595de4d7749afe0
+# Consumerir
+vendor/lib/hw/consumerir.default.so
+vendor/lib64/hw/consumerir.default.so
 
-# Display calibration - from tulip oreo
-vendor/etc/qdcm_calib_data_boe_ft8719_fhdplus_video_mode_dsi_panel.xml|0062127d3ed277db81510506c6057e3e638f9509
-vendor/etc/qdcm_calib_data_shenchao_nt36672a_fhdplus_video_mode_dsi_panel.xml|6be778f8a22e14ac4f8120947ba9941c3ddd9b9d
-vendor/etc/qdcm_calib_data_tianma_nt36672a_fhdplus_video_mode_dsi_panel.xml|d2bcb526acd73da66f73bc6e483aa4e34904b986
+# Display calibration
+vendor/etc/qdcm_calib_data_boe_ft8719_fhdplus_video_mode_dsi_panel.xml
+vendor/etc/qdcm_calib_data_shenchao_nt36672a_fhdplus_video_mode_dsi_panel.xml
+vendor/etc/qdcm_calib_data_tianma_nt36672a_fhdplus_video_mode_dsi_panel.xml
 
 # DPM - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 bin/dpmd|6c511738d83ba1cfdc75b00b9bd676d231914f3a
@@ -1190,65 +1190,64 @@ vendor/bin/dpmQmiMgr|eabe3e56c87e1de3f4462e85a7ee73fc3e91f726
 vendor/lib64/libdpmqmihal.so|fecdfdb7591feec835ed713863a8dbcca141b252
 vendor/lib64/com.qualcomm.qti.dpm.api@1.0.so|05af4880ad4c633fe60750ff49525e62822585f7
 
-# DRM - from tulip oreo
-lib/libGPTEE_system.so|2aab0aaf4c92e268feb169291dba1f28928c95d0
-lib/libQTEEConnector_system.so|96e60afefc8571f2865e0b869b5cc5d3f17588e9
-lib/vendor.qti.hardware.qteeconnector@1.0.so|ec895af6b62283ac700ce8fec36ec174a93bf405
-lib64/libGPTEE_system.so|fa4ed9c8951646227220d2642ba7112d2b5a9358
-lib64/libQTEEConnector_system.so|6bc4fc401e54f30fe011df631a3b007f4d881895
-lib64/vendor.qti.hardware.qteeconnector@1.0.so|18222493f77a2ad8c7d83007523b339bcab7fd1f
-vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service|6f4420700d10fe6a5075ef90ae08b867dc1a5c89
-vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc|c966350ee67d3a7c73ca7184e3725264025d16f5
-vendor/bin/qseecomd|f80d0e86184e9c1aeb84766ba12a1ee2de808df0
-vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so|ca94528a23dbf7d05e4158209951301edda102ec
-vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so|e92610bb1422a4eeab7763ace5a407f360b25b40
-vendor/lib/vendor.qti.hardware.qteeconnector@1.0_vendor.so|e0a354e2d6a76e5a12d17041695454aab1b3e361
-vendor/lib/libbase64.so|97fc122d3edd82ea01a70f2b561d7c5e943065fa
-vendor/lib/libcppf.so|abf00bdd766bf0073b7c579b8054ca60c198a201
-vendor/lib/libdrmfs.so|3ca7a29a39d6b8a6420350e1d8320056da7c442d
-vendor/lib/libdrmtime.so|ee94dbb6647d8fc064e18dc9d83136c1adfa7023
-vendor/lib/libGPTEE_vendor.so|0eaaaedcb67e7293f60154436c5eff1f3b7793a6
-vendor/lib/libGPreqcancel_svc.so|fe5d15466f9b3464b5fcb09fa48ff4f378967d57
-vendor/lib/libGPreqcancel.so|139d10857c90228e74e8c125914f81f8e0067694
-vendor/lib/libmm-hdcpmgr.so|1d7eae3eed63307845f74a01fabe3ee51c0b15ca
-vendor/lib/libqisl.so|1d9304b5f4e42f9569c981ec8a93f825597caade
-vendor/lib/libQSEEComAPI.so|432c2b5c61c3a9f9d11c645534f5c80975616cf5
-vendor/lib/libQTEEConnector_vendor.so|5557f1161242453eb0fc427a2f2aa1895a2040d3
-vendor/lib/librmp.so|f7b51d24fe2cd8662a392ca8cabfd0e05efb4cc5
-vendor/lib/librpmb.so|5cc2951915097594c2dcef82fc8d91d0a99f5750
-vendor/lib/libsdedrm.so|4dee5f5f95148466b4a19a80f63876e6544458ec
-vendor/lib/libsecureui.so|bdaad5d985acd24717eff891305604b9589184d8
-vendor/lib/libsecureui_svcsock.so|1f32892ad0881222e43f3a2bdae67149c33a19d1
-vendor/lib/libsi.so|3e1a9860749976876b0a229073bc0e467140ebec
-vendor/lib/libssd.so|057cd12513b67b2603b14c0663d8a4712f09620f
-vendor/lib/libStDrvInt.so|a30864a1a1c0eb8c325511c11cfb6a67ab5dd27e
-vendor/lib/libtzdrmgenprov.so|dbbe713f206cb8a1c6672896167a6701f0b5ceaf
-vendor/lib/qcdrm/playready/lib/drm/libdrmprplugin_customer.so|98a74b2ba3ad948e687db90628292497b09cd5f5
-vendor/lib/qcdrm/playready/lib/libprdrmdecrypt_customer.so|48c43164be487e999472b91ade505f8204c5858f
-vendor/lib/qcdrm/playready/lib/libtzplayready_customer.so|a7374efa90d4fc383536b79421cd1351335cef8a
-vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmdecrypt_customer.so|b6f6e8de8201c5ac1420e3acea9aec4611c9b9e9
-vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmplugin_customer.so|3ea7ee2ce0efeb2472ee10d116373a0c982af91c
-vendor/lib64/libbase64.so|917e7393eda7a2e264cc122d12fc333c9e5e12f5
-vendor/lib64/libdrmfs.so|747e8806633f541f61dec46bee443238ef0158f4
-vendor/lib64/libdrmtime.so|2ca2d640d102827001ed58cf52f7aaada7fed000
-vendor/lib64/libGPTEE_vendor.so|6c7577bba55a0b01a1b5cdd8af04ccdbd6dcf2b5
-vendor/lib64/libGPreqcancel_svc.so|c4e989ec036384050b5509f3c2b42b7d3fb5d36b
-vendor/lib64/libGPreqcancel.so|06a53118c4e39db7241d6cb8bff21541755f255a
-vendor/lib64/libmm-hdcpmgr.so|6332fac556cd361241f93dae81ac11078af7a804
-vendor/lib64/libqisl.so|4d99dd6d49b85aebc7d55b18f8783b3196973114
-vendor/lib64/libQSEEComAPI.so|37c0443fd01ca1845f1625a939c6202675398506
-vendor/lib64/libQTEEConnector_vendor.so|eb34d8e292a13e1b242f318de66846ce794f0b2d
-vendor/lib64/librmp.so|789b5fc89423a0a31ab24e705fa8a6e03a3260f2
-vendor/lib64/librpmb.so|0dc6234c83ee928800f0d2f833d4ba17e9805404
-vendor/lib64/libsdedrm.so|f89d7d81678b56325b2ca3e4b864c76dc310fd44
-vendor/lib64/libsecureui_svcsock.so|0906f2add315add8ecacfd09d8d1c80ee98e8725
-vendor/lib64/libsecureui.so|15d360dffb1db119b9131ed4ad2975b5cf52cd8f
-vendor/lib64/libSecureUILib.so|b9834a64ef413fc0de5fbfbb6a165b716bf250df
-vendor/lib64/libsi.so|bfc34802e4d8fbfc608af402809df8958640c16c
-vendor/lib64/libssd.so|bcc790e3cf155fb2a1f9725f9658db5f6ff500bd
-vendor/lib64/libStDrvInt.so|44ffa0648d28a49dc963f94b59227f187222fcea
-vendor/lib64/libtzdrmgenprov.so|95f5da75715852e252f2d3175689a1c5e1d2d06d
-vendor/lib64/vendor.qti.hardware.qteeconnector@1.0_vendor.so|5780dcb6b3ff3096b9310225213769892a9e3e55
+# DRM
+lib/libGPTEE_system.so
+lib/libQTEEConnector_system.so
+lib/vendor.qti.hardware.qteeconnector@1.0.so
+lib64/libGPTEE_system.so
+lib64/libQTEEConnector_system.so
+lib64/vendor.qti.hardware.qteeconnector@1.0.so
+vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service
+vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc
+vendor/bin/qseecomd
+vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so
+vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so
+vendor/lib/vendor.qti.hardware.qteeconnector@1.0.so
+vendor/lib/libbase64.so
+vendor/lib/libcppf.so
+vendor/lib/libdrmfs.so
+vendor/lib/libdrmtime.so
+vendor/lib/libGPTEE_vendor.so
+vendor/lib/libGPreqcancel_svc.so
+vendor/lib/libGPreqcancel.so
+vendor/lib/libmm-hdcpmgr.so
+vendor/lib/libqisl.so
+vendor/lib/libQSEEComAPI.so
+vendor/lib/libQTEEConnector_vendor.so
+vendor/lib/librmp.so
+vendor/lib/librpmb.so
+vendor/lib/libsdedrm.so
+vendor/lib/libsecureui.so
+vendor/lib/libsecureui_svcsock.so
+vendor/lib/libsi.so
+vendor/lib/libssd.so
+vendor/lib/libStDrvInt.so
+vendor/lib/libtzdrmgenprov.so
+vendor/lib/qcdrm/playready/lib/libprdrmdecrypt_customer.so
+vendor/lib/qcdrm/playready/lib/libtzplayready_customer.so
+vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmdecrypt_customer.so
+vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmplugin_customer.so
+vendor/lib64/libbase64.so
+vendor/lib64/libdrmfs.so
+vendor/lib64/libdrmtime.so
+vendor/lib64/libGPTEE_vendor.so
+vendor/lib64/libGPreqcancel_svc.so
+vendor/lib64/libGPreqcancel.so
+vendor/lib64/libmm-hdcpmgr.so
+vendor/lib64/libqisl.so
+vendor/lib64/libQSEEComAPI.so
+vendor/lib64/libQTEEConnector_vendor.so
+vendor/lib64/librmp.so
+vendor/lib64/librpmb.so
+vendor/lib64/libsdedrm.so
+vendor/lib64/libsecureui_svcsock.so
+vendor/lib64/libsecureui.so
+vendor/lib64/libSecureUILib.so
+vendor/lib64/libsi.so
+vendor/lib64/libssd.so
+vendor/lib64/libStDrvInt.so
+vendor/lib64/libtzdrmgenprov.so
+vendor/lib64/vendor.qti.hardware.qteeconnector@1.0.so
 
 # DRM - Widevine - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 vendor/bin/hw/android.hardware.drm@1.1-service.widevine|9743c4ecd0fb8773795bcbfbb406f25616c04129
@@ -1320,13 +1319,13 @@ vendor/lib/vendor.qti.hardware.fm@1.0.so|3c725ea0f85bf709bcf77761d707abf7660b1c4
 vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|2469d0cb6b1c01bcee8f280a113569bd5682bf89
 vendor/lib64/vendor.qti.hardware.fm@1.0.so|dc576dfcb0bf390a106b5ed8861e7f547110cbf1
 
-# Gatekeeper - from tulip oreo
-vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti|9234dc803f75ddce39c4ca5d40344d0f3eba74fc
-vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc|1b8d5f58fe0a57906acf72b862c16a2521daa97b
-vendor/lib/hw/gatekeeper.sdm660.so|08a88042a7e260dbadd10de2a68aa2d7c2a4a052
-vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so|6c25168eecff23b7ba789f32247a28897da3b664
-vendor/lib64/hw/gatekeeper.sdm660.so|81cb51d9fe17541fae204283ad14e87d538e223b
-vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so|105a06923b58a689b60a4bf148c0a3844f64b49a
+# Gatekeeper
+vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti
+vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc
+vendor/lib/hw/gatekeeper.sdm660.so
+vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so
+vendor/lib64/hw/gatekeeper.sdm660.so
+vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 
 # GPS - from Redmi Note 7 lavender-user 9 PKQ1.180904.001 V10.2.3.0.PFGCNXM release-keys
 vendor/bin/hw/vendor.qti.gnss@2.0-service|d28d3fc9f62c0b5993518c6e55a0fc8727eb305a
@@ -1369,15 +1368,15 @@ vendor/lib64/vendor.qti.gnss@1.1.so|4313edc2c92a94e1529c9a71ebd56926b0fffbc9
 vendor/lib64/vendor.qti.gnss@1.2.so|203b46a7fb8e2590d29448433254b28386e1bfda
 vendor/lib64/vendor.qti.gnss@2.0.so|ce21dda6d94d1441433893614644fdcd9d293cee
 
-# GPU firmware - from tulip oreo
-vendor/firmware/a512_zap.b00|8fbe425d7edcc44808e010495b1256de9dc97623
-vendor/firmware/a512_zap.b01|1be12917cbe086d050aaf4c0da4cffb4990ace04
-vendor/firmware/a512_zap.b02|73bfd51568fe69edf111e0f6d77dc226a1019b02
-vendor/firmware/a512_zap.elf|c425f8954316e82faaa078cf69631cd31b7d86d2
-vendor/firmware/a512_zap.mdt|bbb648b60b038ddbb8a622f3ef3e8c6a50d46f59
-vendor/firmware/a530_gpmu.fw2|706da8d5ee565dcf456341f805ee75a40773f65a
-vendor/firmware/a530_pfp.fw|448f9db8271fefb08348cbc50409e8e95bd93f78
-vendor/firmware/a530_pm4.fw|5741a28752355b478d455635bab008028ff7e1c6
+# GPU firmware
+vendor/firmware/a512_zap.b00
+vendor/firmware/a512_zap.b01
+vendor/firmware/a512_zap.b02
+vendor/firmware/a512_zap.elf
+vendor/firmware/a512_zap.mdt
+vendor/firmware/a530_gpmu.fw2
+vendor/firmware/a530_pfp.fw
+vendor/firmware/a530_pm4.fw
 
 # Graphics - from Redmi Note 7 lavender-user 9 PKQ1.180904.001 V10.2.3.0.PFGCNXM release-keys
 vendor/lib64/egl/eglSubDriverAndroid.so|baa2b8d500d0645642f40358be6c5e10fbabd193
@@ -1441,21 +1440,21 @@ vendor/lib64/libtinyxml2_1.so|9d5179eda8ce70b9a4014b144f9d23d33509fddc
 vendor/lib/hw/vulkan.sdm660.so|1426694ac179ddd26d0dadf9cc54305cad0386a4
 vendor/lib64/hw/vulkan.sdm660.so|82b72990a737799894c291f8a3515d7d668a5423
 
-# Keymaster - from tulip oreo
-vendor/lib/libkeymasterutils.so|2e5818a75281485858a65b190780ef4bdf9321d8
-vendor/lib/libkeymasterprovision.so|8cc4b0b2e91e21c134971bad1b3a21de3b270c83
-vendor/lib/libkeymasterdeviceutils.so|d32363fb6dcbde3e18aaf3220394d058232d16f8
-vendor/lib64/libkeymasterutils.so|9ebefa740d99efd3d796454b80f54d4137863901
-vendor/lib64/libkeymasterprovision.so|e56418fa47e3dafe477c60c07b3db11d9e33ea2d
-vendor/lib64/libkeymasterdeviceutils.so|f8e429cc5509844f0de0133adf9fafbf412936bd
+# Keymaster
+vendor/lib/libkeymasterutils.so
+vendor/lib/libkeymasterprovision.so
+vendor/lib/libkeymasterdeviceutils.so
+vendor/lib64/libkeymasterutils.so
+vendor/lib64/libkeymasterprovision.so
+vendor/lib64/libkeymasterdeviceutils.so
 
-# Keystore - from tulip oreo
-vendor/bin/hw/android.hardware.keymaster@3.0-service-qti|83a07de934c269c8836e0514902b983c2d5aa3c6
-vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc|573b7392c8997008204081165cfe81a11080745d
-vendor/lib/hw/keystore.sdm660.so|e81d504c560ee758a024182514cea23781b3c092
-vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so|f9d4f1e813fb8ba24a4d7ac702ae96eca5fcfd31
-vendor/lib64/hw/keystore.sdm660.so|3cb0b1986e54e821278a3447779e4c8ba653f92f
-vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so|082964763c92ca3eba3ffd13d7010461724e948e
+# Keystore
+vendor/bin/hw/android.hardware.keymaster@3.0-service-qti
+vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc
+vendor/lib/hw/keystore.sdm660.so
+vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so
+vendor/lib64/hw/keystore.sdm660.so
+vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so
 
 # Listen - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 vendor/etc/audio.bsd|a8a83254fff006e50a879806a8fd141596290cb3
@@ -1732,31 +1731,31 @@ vendor/lib64/vendor.qti.imsrtpservice@1.0.so|7ba73cb608b8279094912ee7f6c47b90ec4
 vendor/lib64/vendor.qti.ims.callinfo@1.0.so|a6924fdc270404b4a0a5a86a414159fd28861960
 vendor/lib64/vendor.qti.ims.rcsconfig@1.0.so|4cb6683a36ad11b18632fe99d7031e6a3c9a1b9b
 
-# Sensors - from tulip oreo
-vendor/bin/sensors.qcom|a473b77cb1e8e61ddf224194c91b44878e1f4e34
-vendor/etc/sensors/sensor_def_qcomdev.conf|68f2300e8d5b7b8c5239f37e6c21a0d92273cb1e
-vendor/lib/hw/activity_recognition.sdm660.so|37db27fffdc16f6fe01668be2df2331e3a65cd91
-vendor/lib/libsensor_reg.so|a2a069f866e9029c99222c7ca239bf34874e5b3a
-vendor/lib/libsensor1.so|33109ebe9198e4d95fd82b72c3a2e5c08c936d05
-vendor/lib/sensors.ssc.so|eefe0535f0f331a3859e0fa229a2e7d52ad1ff1e
-vendor/lib64/hw/activity_recognition.sdm660.so|3edc312c26b99e8384a6060662006f9c49db6ddf
-vendor/lib64/libsensor_reg.so|a915422454fbda2336f685c0f46e60215879679a
-vendor/lib64/libsensor1.so|a53aa0b26db14c1bc3833d334f978fc2aea29aac
-vendor/lib64/sensors.ssc.so|9052524dec785221f742a4f3d34655473dbbadaa
+# Sensors
+vendor/bin/sensors.qti
+vendor/etc/sensors/sensor_def_qcomdev.conf
+vendor/lib/hw/activity_recognition.sdm660.so
+vendor/lib/libsensor_reg.so
+vendor/lib/libsensor1.so
+vendor/lib/sensors.ssc.so
+vendor/lib64/hw/activity_recognition.sdm660.so
+vendor/lib64/libsensor_reg.so
+vendor/lib64/libsensor1.so
+vendor/lib64/sensors.ssc.so
 
-# Thermal - from tulip oreo
--vendor/lib64/libthermalclient.so|54121e31e4a5170f8c50e36ddb57685b6c538a21
--vendor/lib/libthermalclient.so|4579096edb376b06827f8e90a49480cf121030f0
-vendor/bin/thermal-engine|cfecd628a1c6ffe8f0cab291514470b4326ff6ae
-vendor/etc/thermal-engine-camera.conf|189741301d42908827d864a347d95caa79c05945
-vendor/etc/thermal-engine-map.conf|648bc9f3be798d2c604b6da05ded064c97bd7ad8
-vendor/etc/thermal-engine-normal.conf|5080b3e4daefdeed2ce824cc4517bf0d255d6c82
-vendor/etc/thermal-engine-sgame.conf|012bd32c789b0115d4db0e627b8f10e4b08bd7a6
-vendor/etc/thermal-engine-Youtube.conf|515fa2fef1eb5df3e46f9886a5eba7436a1028d6
-vendor/etc/thermal-engine.conf|c6c9312b7c7b52926cf7d0fc9bff933d90967100
-vendor/lib64/libthermalfeature.so|829b2fc0aa8c863d4b4b331e0a2c00663e01efe6
-vendor/lib64/libthermalioctl.so|6af87701a6439a3fb184d5a667cee8cb57fccc77
-vendor/lib/libthermalfeature.so|1f1eb616ba26b309a2fda7de40c2163a4acaaa35
+# Thermal
+-vendor/lib64/libthermalclient.so
+-vendor/lib/libthermalclient.so
+vendor/bin/thermal-engine
+vendor/etc/thermal-engine-camera.conf
+vendor/etc/thermal-engine-map.conf
+vendor/etc/thermal-engine-normal.conf
+vendor/etc/thermal-engine-sgame.conf
+vendor/etc/thermal-engine-Youtube.conf
+vendor/etc/thermal-engine.conf
+vendor/lib64/libthermalfeature.so
+vendor/lib64/libthermalioctl.so
+vendor/lib/libthermalfeature.so
 
 # Time services - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 -vendor/app/TimeService/TimeService.apk|78109530538aa8fb533ad288c9d356c57481a10e
