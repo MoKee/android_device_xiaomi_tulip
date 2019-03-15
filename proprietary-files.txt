@@ -1327,46 +1327,46 @@ vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 vendor/lib64/hw/gatekeeper.sdm660.so
 vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 
-# GPS - from Redmi Note 7 lavender-user 9 PKQ1.180904.001 V10.2.3.0.PFGCNXM release-keys
-vendor/bin/hw/vendor.qti.gnss@2.0-service|d28d3fc9f62c0b5993518c6e55a0fc8727eb305a
-vendor/bin/DR_AP_Service|c924f23bc3266e8cd8e93fb2b4902f1a3f0ef041
-vendor/bin/garden_app|be4a318dc33c53319bcd43deba1dda7a8c32a882
-vendor/bin/loc_launcher|d13affa5bfe3a5a014dd5e15a93b321aa5b890fe
-vendor/bin/lowi-server|862c6f05ebb1480968f6680f348cdbbdd686b3bf
-vendor/bin/slim_daemon|8559f77bceeb1525ed80d2b381fddc4706b0e144
-vendor/bin/xtra-daemon|50679ad3880a6ddc4bd0eca92a0aebdc04e0240c
-vendor/etc/cacert_location.pem|0789bf799c7e45d352a83e2f79ddb0cea86db85b
-vendor/etc/xtra_root_cert.pem|f55a31ec4d9cf8ce2724acadecf00c779f8767db
-vendor/etc/init/vendor.qti.gnss@2.0-service.rc|5fef1b6f19950a06dc1ffd11f161f9587bb84054
-vendor/lib64/hw/vendor.qti.gnss@2.0-impl.so|35bed8b3e686aab9f6f0890bdf079384f8788941
-vendor/lib64/lib_drplugin_server.so|350609a1c6e82f222bbaf1358b85f73c36e4e90e
-vendor/lib64/libalarmservice_jni.so|b741c55e734b8583599e6cd5866e4b541ea13f32
-vendor/lib64/libdataitems.so|a6c1469cf5377ef4de7f7f9780bf363aedbc520b
-vendor/lib64/libdrplugin_client.so|fb1ef09dd35cb8af0b70def74db0f1f9fb6052fe
-vendor/lib64/libDRPlugin.so|792f322df1627627830e9bc520a9d4d8a0f2c2e8
-vendor/lib64/libevent_observer.so|19951e3a0c43656dce41bf56e4fea8a11d91054f
-vendor/lib64/libflp.so|60425cde4bf676053195e180d9dd6e9d64cfcd44
-vendor/lib64/libgdtap.so|5c26d6c2b768e6b7f2526a35c1375141b1db456a
-vendor/lib64/libgeofence.so|a7fb8797a140f36d5a58d93955288bc9c2b3633e
-vendor/lib64/libizat_client_api.so|8015b7ad75a6ad66e67934cb61ae881a0fc0e179
-vendor/lib64/libizat_core.so|58abf7f7ce3ed211cf94d62d4bf162a0443ad7d1
-vendor/lib64/liblbs_core.so|4cb48bd9c9710e69d494a1b9280710dfd573068a
-vendor/lib64/libloc_api_v02.so|f524adaa17febec30ef72aad80deed29afdd70d8
-vendor/lib64/libloc_ds_api.so|20b4ece0343fcf742f9ecffc59e93631e637a822
-vendor/lib64/libloc_externalDr.so|43039508b29f34c1b5b15c5bc266d083e77d0116
-vendor/lib64/liblocationservice_glue.so|9cc8a6b8b3d9ae0ad42673c5c5898c10a05455c5
-vendor/lib64/liblocationservice.so|88c2d32bac8e7dd31009fccbf53276229d95d6a3
-vendor/lib64/liblowi_client.so|a3cfdc0e382d5cce89ff2cbde056f9cba62cfc5b
-vendor/lib64/liblowi_wifihal.so|294f3d47f82b695d07c0e2cb9e841550e155608e
-vendor/lib64/libquipc_os_api.so|70125d29001584f5f008ab51f071b7d0cd0db37c
-vendor/lib64/libslimclient.so|fe1c160902f8074f28fc1141b6be055b27090439
-vendor/lib64/libulp2.so|594467f13ad77ff61274614ce91a75bbe115423c
-vendor/lib64/libxtadapter.so|b54280f7d31890af4a714ee14498ecdbbf3b45f6
-vendor/lib64/libxtwifi_ulp_adaptor.so|f94db5e9236f26a3a200d5e299da95c942e1ba44
-vendor/lib64/vendor.qti.gnss@1.0.so|1341bc24b9a59d4b2174a2b046b82777d4898809
-vendor/lib64/vendor.qti.gnss@1.1.so|4313edc2c92a94e1529c9a71ebd56926b0fffbc9
-vendor/lib64/vendor.qti.gnss@1.2.so|203b46a7fb8e2590d29448433254b28386e1bfda
-vendor/lib64/vendor.qti.gnss@2.0.so|ce21dda6d94d1441433893614644fdcd9d293cee
+# GPS
+vendor/bin/hw/vendor.qti.gnss@2.0-service
+vendor/bin/DR_AP_Service
+vendor/bin/garden_app
+vendor/bin/loc_launcher
+vendor/bin/lowi-server
+vendor/bin/slim_daemon
+vendor/bin/xtra-daemon
+vendor/etc/cacert_location.pem
+vendor/etc/xtra_root_cert.pem
+vendor/etc/init/vendor.qti.gnss@2.0-service.rc
+vendor/lib64/hw/vendor.qti.gnss@2.0-impl.so
+vendor/lib64/lib_drplugin_server.so
+vendor/lib64/libalarmservice_jni.so
+vendor/lib64/libdataitems.so
+vendor/lib64/libdrplugin_client.so
+vendor/lib64/libDRPlugin.so
+vendor/lib64/libevent_observer.so
+vendor/lib64/libflp.so
+vendor/lib64/libgdtap.so
+vendor/lib64/libgeofence.so
+vendor/lib64/libizat_client_api.so
+vendor/lib64/libizat_core.so
+vendor/lib64/liblbs_core.so
+vendor/lib64/libloc_api_v02.so
+vendor/lib64/libloc_ds_api.so
+vendor/lib64/libloc_externalDr.so
+vendor/lib64/liblocationservice_glue.so
+vendor/lib64/liblocationservice.so
+vendor/lib64/liblowi_client.so
+vendor/lib64/liblowi_wifihal.so
+vendor/lib64/libquipc_os_api.so
+vendor/lib64/libslimclient.so
+vendor/lib64/libulp2.so
+vendor/lib64/libxtadapter.so
+vendor/lib64/libxtwifi_ulp_adaptor.so
+vendor/lib64/vendor.qti.gnss@1.0.so
+vendor/lib64/vendor.qti.gnss@1.1.so
+vendor/lib64/vendor.qti.gnss@1.2.so
+vendor/lib64/vendor.qti.gnss@2.0.so
 
 # GPU firmware
 vendor/firmware/a512_zap.b00
@@ -1378,49 +1378,49 @@ vendor/firmware/a530_gpmu.fw2
 vendor/firmware/a530_pfp.fw
 vendor/firmware/a530_pm4.fw
 
-# Graphics - from Redmi Note 7 lavender-user 9 PKQ1.180904.001 V10.2.3.0.PFGCNXM release-keys
-vendor/lib64/egl/eglSubDriverAndroid.so|baa2b8d500d0645642f40358be6c5e10fbabd193
-vendor/lib64/egl/libEGL_adreno.so|8c7de13558f96022520834663021f8e68b430aac
-vendor/lib64/egl/libGLESv1_CM_adreno.so|95497830d4e08c02a3b6d82bc7623f926d2ef9ed
-vendor/lib64/egl/libGLESv2_adreno.so|8027d82d27298e78a9fdb67fd2232a0091623d1f
-vendor/lib64/egl/libq3dtools_adreno.so|4bd18c19a4d8376311983303b0971a7aa1334897
-vendor/lib64/egl/libq3dtools_esx.so|19d96756fda3f1ba0251c041120d1d4f3a5a8d03
-vendor/lib64/egl/libQTapGLES.so|dac820eea4d54f98f7e20a49b82404de6f09743b
-vendor/lib64/libadreno_utils.so|4b9072beb7ce486163966d6a12d8edd7e92830b5
-vendor/lib64/libbccQTI.so|be1ae3a075c42dcb19bc6e1ecd7374f9aeae083c
-vendor/lib64/libC2D2.so|724684ac0e167bc729cbdea1ee9e21da248cfd58
-vendor/lib64/libc2d30_bltlib.so|e950f918802d3d3e656ab4f0fe731bb60e1b357e
-vendor/lib64/libCB.so|7f9ee00ababa07845d200a991d9ec839d364e8f9
-vendor/lib64/libgsl.so|39bbfb10ef6c20feab0162ca2078d6bdab64ba6f
-vendor/lib64/libllvm-glnext.so|6bad98f9d784d7c50a3d47fe61dbabd6164cc0bc
-vendor/lib64/libllvm-qcom.so|4e9dc8128379692407bf730f1b1ebdd3307bd5c0
-vendor/lib64/libOpenCL.so|1e78c9b98378803703835a3e1cbfabf43318f341
-vendor/lib64/librs_adreno_sha1.so|1eb6385f291f6a611ec7096b3b7cfaeb9a08c9f3
-vendor/lib64/librs_adreno.so|b6bc2274fc4079818f3124a694348a890c5d7b07
-vendor/lib64/libRSDriver_adreno.so|3d77fb21a40b98e908840aa89d044aea4f695694
-vendor/lib/egl/eglSubDriverAndroid.so|c8ffb5031734026961217586a5caf5becfa99a6d
-vendor/lib/egl/libEGL_adreno.so|bb2db6766b393777b8d37d81c2614e1166dd39af
-vendor/lib/egl/libGLESv1_CM_adreno.so|0930a64d8889c184de31a085539e1b8b28520a31
-vendor/lib/egl/libGLESv2_adreno.so|005ca25494f36aa4e8298f8a8ff9b8c4ae6bd1e4
-vendor/lib/egl/libq3dtools_adreno.so|a2506b94eb0fe3c2bccc7c8e6d8b8d21bd314ae8
-vendor/lib/egl/libq3dtools_esx.so|9116ff1328163d82ca624ea02f09d80ec0f055dc
-vendor/lib/egl/libQTapGLES.so|7641cd4f894d86f53394bcdc421ecae254afaf30
-vendor/lib/libadreno_utils.so|34023494194932a62c70d82c60d4f6cf2e64b58f
-vendor/lib/libbccQTI.so|aa1220cad9df3c39c0c14c4a36546342cc518ad1
-vendor/lib/libC2D2.so|a110bf0568eef9e49b251b7750cf6e51c3c85969
-vendor/lib/libc2d30_bltlib.so|e9767a3e4e674d42f23f5482471d38973e038d45
-vendor/lib/libCB.so|ec481cf472b0cfc568b909be92b7da5a68405f70
-vendor/lib/libgsl.so|2849df0ee52249c7d6e5ed869df064eff910c12c
-vendor/lib/libllvm-glnext.so|aaf39c5b6fd424edc773c64ad06de2e1dfbd9600
-vendor/lib/libllvm-qcom.so|ba0f181d031bcdd479bc007e33c5490cf5a34723
-vendor/lib/libOpenCL.so|fbf2d8e82973ea44583f1ca6a624163759167a73
-vendor/lib/librs_adreno_sha1.so|3eab25ba145381aa9ac3dd4d913152fb181a74d3
-vendor/lib/librs_adreno.so|41b2a1b35a8a9966728cea607bf5b7a8f568680d
-vendor/lib/libRSDriver_adreno.so|7e6b61cb975de2029ea6debe4fe442852da06e00
+# Graphics
+vendor/lib64/egl/eglSubDriverAndroid.so
+vendor/lib64/egl/libEGL_adreno.so
+vendor/lib64/egl/libGLESv1_CM_adreno.so
+vendor/lib64/egl/libGLESv2_adreno.so
+vendor/lib64/egl/libq3dtools_adreno.so
+vendor/lib64/egl/libq3dtools_esx.so
+vendor/lib64/egl/libQTapGLES.so
+vendor/lib64/libadreno_utils.so
+vendor/lib64/libbccQTI.so
+vendor/lib64/libC2D2.so
+vendor/lib64/libc2d30_bltlib.so
+vendor/lib64/libCB.so
+vendor/lib64/libgsl.so
+vendor/lib64/libllvm-glnext.so
+vendor/lib64/libllvm-qcom.so
+vendor/lib64/libOpenCL.so
+vendor/lib64/librs_adreno_sha1.so
+vendor/lib64/librs_adreno.so
+vendor/lib64/libRSDriver_adreno.so
+vendor/lib/egl/eglSubDriverAndroid.so
+vendor/lib/egl/libEGL_adreno.so
+vendor/lib/egl/libGLESv1_CM_adreno.so
+vendor/lib/egl/libGLESv2_adreno.so
+vendor/lib/egl/libq3dtools_adreno.so
+vendor/lib/egl/libq3dtools_esx.so
+vendor/lib/egl/libQTapGLES.so
+vendor/lib/libadreno_utils.so
+vendor/lib/libbccQTI.so
+vendor/lib/libC2D2.so
+vendor/lib/libc2d30_bltlib.so
+vendor/lib/libCB.so
+vendor/lib/libgsl.so
+vendor/lib/libllvm-glnext.so
+vendor/lib/libllvm-qcom.so
+vendor/lib/libOpenCL.so
+vendor/lib/librs_adreno_sha1.so
+vendor/lib/librs_adreno.so
+vendor/lib/libRSDriver_adreno.so
 
-# Graphics (HDR) - from Redmi Note 7 lavender-user 9 PKQ1.180904.001 V10.2.3.0.PFGCNXM release-keys
-vendor/lib/libhdr_tm.so|37ac96055e1fcb2d1a3b4507ba62760ca30915b3
-vendor/lib64/libhdr_tm.so|f4c0fe6a734077666ec5e10f68577f70a26cd2d2
+# Graphics (HDR)
+vendor/lib/libhdr_tm.so
+vendor/lib64/libhdr_tm.so
 
 # Graphics (SDM) - from LA.UM.7.4.r1-04100-8x98.0
 vendor/lib/libqseed3.so|c60e08f5efa1e9aea339a7a5a6dccdc2d107f530
@@ -1436,9 +1436,9 @@ vendor/lib64/libsdm-diag.so|25bab19a8c4453b3d20e3e1a71a0e8d3675b17b4
 vendor/lib64/libsdmextension.so|c4a416cb8c0f5dc87bee8494d70247cf049224b9
 vendor/lib64/libtinyxml2_1.so|9d5179eda8ce70b9a4014b144f9d23d33509fddc
 
-# Graphics (Vulkan) - from Redmi Note 7 lavender-user 9 PKQ1.180904.001 V10.2.3.0.PFGCNXM release-keys
-vendor/lib/hw/vulkan.sdm660.so|1426694ac179ddd26d0dadf9cc54305cad0386a4
-vendor/lib64/hw/vulkan.sdm660.so|82b72990a737799894c291f8a3515d7d668a5423
+# Graphics (Vulkan)
+vendor/lib/hw/vulkan.sdm660.so
+vendor/lib64/hw/vulkan.sdm660.so
 
 # Keymaster
 vendor/lib/libkeymasterutils.so
@@ -1577,14 +1577,14 @@ vendor/lib64/libperipheral_client.so|c4b0cb11e908b234a54a9f212c42ff4c37e37391
 # Power-off charging daemon
 -sbin/charger:sbin/chargeonlymode;rootfs|664dfa548b81cac348f1699222160f8d2b4d247c
 
-# Postprocessing - from Redmi Note 7 lavender-user 9 PKQ1.180904.001 V10.2.3.0.PFGCNXM release-keys
-vendor/bin/hw/vendor.display.color@1.0-service|4186fc9f9c69897fe4d79bbf58025144df9c6387
-vendor/bin/mm-pp-dpps|74141c92e68a293b2f5fb0992cb58102ecd9718b
-vendor/etc/init/vendor.display.color@1.0-service.rc|5ad673f879b3685a0e79b5633437e5499cb94f48
-vendor/lib64/libdisp-aba.so|09a8d5f64b3a6f6f57971ad6fab62cfde4e98547
-vendor/lib64/vendor.display.color@1.0.so|4a77650c5d42169073a13f5150da619bf806e7d7
-vendor/lib64/vendor.display.color@1.1.so|a8bfe228ed1235f1ceb8ab794100c7edab38d0a7
-vendor/lib64/vendor.display.postproc@1.0.so|014e060db0ddb6b1f9af705fb11a775d00ee2d14
+# Postprocessing
+vendor/bin/hw/vendor.display.color@1.0-service
+vendor/bin/mm-pp-dpps
+vendor/etc/init/vendor.display.color@1.0-service.rc
+vendor/lib64/libdisp-aba.so
+vendor/lib64/vendor.display.color@1.0.so
+vendor/lib64/vendor.display.color@1.1.so
+vendor/lib64/vendor.display.postproc@1.0.so
 
 # QMI - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 etc/permissions/qti_permissions.xml|e6ff4572352b1a4f91b6b9d7cbb1cad9924410a0
