@@ -359,6 +359,7 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.rc \
     init.qcom.usb.sh \
     init.target.rc \
+    init.tulip.rc \
     ueventd.qcom.rc \
     fstab.qcom
 
