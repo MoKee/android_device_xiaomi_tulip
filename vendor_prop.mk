@@ -49,7 +49,6 @@ PRODUCT_PROPERTY_OVERRIDES +=  \
     persist.vendor.btstack.a2dp_offload_cap=sbc-aptx-aptxhd-aac  \
     persist.vendor.btstack.enable.splita2dp=true  \
     ro.bluetooth.emb_wp_mode=true  \
-    ro.bluetooth.library_name=libbluetooth_qti.so  \
     ro.bluetooth.wipower=true  \
     vendor.bluetooth.soc=cherokee  \
     vendor.qcom.bluetooth.soc=cherokee
