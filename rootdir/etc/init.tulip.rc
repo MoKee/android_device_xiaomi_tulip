@@ -44,6 +44,9 @@ on boot
     chmod 0700 /sys/bus/platform/devices/soc:fingerprint_fpc/vendor
     chmod 0600 /data/misc/fpc/calibration_image.pndat
 
+    # For generic DT2W
+    chown system input /dev/input/event2
+
 on post-fs-data
     mkdir /data/tombstones 0771 system system
     mkdir /tombstones/modem 0771 system system
